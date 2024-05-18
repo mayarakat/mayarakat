@@ -1,16 +1,16 @@
-### Hi there 👋
+### boa vindas ao meu perfil 🖤
 
-<!--
-**mayarakat/mayarakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Mayara Kathileen
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvouvendo na linguagem JavaScript
+- Utlizo esse espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você entrar me contato comigo 📫
+
+  00001114320389sp@al.educacao.sp.gov.br
+
+   @maya__019__
+
+![_]( https://media1.tenor.com/m/hzrZb_3tie4AAAAC/karen.gif)
+ 
