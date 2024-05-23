@@ -2,7 +2,7 @@
 
 meu nome é Mayara Kathileen
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br
 - Estou me desenvouvendo na linguagem JavaScript
 - Utlizo esse espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos
 
